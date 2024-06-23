@@ -17,3 +17,5 @@ cache/netatmo.json
 old/
 data/camera_state.json
 data/ffmpeg_list.txt
+working_temp/images/*
+working_temp/status.jpg

@@ -72,8 +72,8 @@ def capture_image(config, logging_enabled):
             controls={
                 "AwbEnable": config['awb_enable'],
                 "AwbMode": getattr(libcamera.controls.AwbModeEnum, config['awb_mode']),
-                "AfMode": focus_mode,
-                "LensPosition": lens_position,
+                #"AfMode": focus_mode,
+                #"LensPosition": lens_position,
                 "ColourGains": tuple(config['colour_gains']),
                 "AnalogueGain": 1
             }
@@ -108,7 +108,7 @@ def capture_image(config, logging_enabled):
         print(f"Saved file {file_name}")
 
 if __name__ == "__main__":
-    config = load_config('/home/pi/raspberrypi-picamera-timelapse/config.yaml')
+    config = load_config('/home/mat/development/raspberrypi-picamera-timelapse/working_temp/config.yaml')
     logging_enabled = setup_logging(config)
     reset_to_daytime_settings()
     capture_image(config, logging_enabled)

@@ -140,5 +140,6 @@ if __name__ == "__main__":
         print("Error: --only-upload and --dont-upload cannot be used together.")
         exit(1)
 
-    config = load_config('/home/pi/raspberrypi-picamera-timelapse/config.yaml')
+    #config = load_config('/home/pi/raspberrypi-picamera-timelapse/config.yaml')
+    config = load_config('/home/mat/development/raspberrypi-picamera-timelapse/working_temp/config.yaml')
     create_timelapse(config, args.date, not args.dont_upload, args.debug, args.only_upload)

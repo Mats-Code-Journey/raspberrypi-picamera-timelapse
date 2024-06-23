@@ -44,7 +44,8 @@ def setup_logging(config):
 
 
 # Load the configuration file
-config = load_config('/home/pi/raspberrypi-picamera-timelapse/config.yaml')
+#config = load_config('/home/pi/raspberrypi-picamera-timelapse/config.yaml')
+config = load_config('/home/mat/development/raspberrypi-picamera-timelapse/working_temp/config.yaml')
 
 # Set up logging
 logging_enabled = setup_logging(config)
@@ -304,7 +305,7 @@ def add_overlay(config, image_path):
     if not test_mode:
         new_img.save(image_path, exif=exif_data)
     else:
-        new_img.save("/var/www/html/overlay.jpg", exif=exif_data)
+        new_img.save("/home/mat/development/raspberrypi-picamera-timelapse/working_temp/overlay.jpg", exif=exif_data)
 
     # if not test_mode:
         

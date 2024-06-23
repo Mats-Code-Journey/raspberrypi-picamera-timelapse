@@ -95,6 +95,7 @@ def timelapse(config):
 
 
 if __name__ == "__main__":
-    config_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'config.yaml')
-    config = load_config(config_path)
+    #config_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'config.yaml')
+    #config = load_config(config_path)
+    config = load_config('/home/mat/development/raspberrypi-picamera-timelapse/working_temp/config.yaml')
     timelapse(config)
