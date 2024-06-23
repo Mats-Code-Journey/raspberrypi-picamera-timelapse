@@ -74,12 +74,15 @@ def capture_image(config, logging_enabled):
                 "AwbMode": getattr(libcamera.controls.AwbModeEnum, config['awb_mode']),
                 #"AfMode": focus_mode,
                 #"LensPosition": lens_position,
-                "ColourGains": tuple(config['colour_gains']),
+                #"ColourGains": tuple(config['colour_gains']),
                 "AnalogueGain": 1
             }
         )
         camera.options['quality'] = config['image_quality']
         print(f"libcamera.controls {libcamera.controls}")
+        
+        # Flip the image horizontally and vertically # specific for my application
+        camera_config["transform"] = libcamera.Transform(hflip=1, vflip=1)
         
         camera.configure(camera_config)
         # Log out all active controls before capturing the image
