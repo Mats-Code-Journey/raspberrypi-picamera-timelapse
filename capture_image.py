@@ -55,15 +55,17 @@ def capture_image(config, logging_enabled):
     # Enable or disable HDR based on config
     # This must be done before Picamera2 is ran
     # Only works with v3 cameras
-    if config['hdr']:
+    #print( config['hdr'])
+    if config['hdr'] == True:
         os.system("v4l2-ctl --set-ctrl wide_dynamic_range=1 -d /dev/v4l-subdev0")
     else:
-        os.system("v4l2-ctl --set-ctrl wide_dynamic_range=0 -d /dev/v4l-subdev0")
+        #os.system("v4l2-ctl --set-ctrl wide_dynamic_range=0 -d /dev/v4l-subdev0")
+        pass
 
     with Picamera2() as camera:
         # Set focus mode and lens position based on config
-        focus_mode = libcamera.controls.AfModeEnum.Manual if config['focus_mode'] == 'manual' else libcamera.controls.AfModeEnum.Auto
-        lens_position = config['lens_position'] if config['focus_mode'] == 'manual' else None
+        #focus_mode = libcamera.controls.AfModeEnum.Manual if config['focus_mode'] == 'manual' else libcamera.controls.AfModeEnum.Auto
+        #lens_position = config['lens_position'] if config['focus_mode'] == 'manual' else None
 
         camera_config = camera.create_still_configuration(
             main={"size": tuple(config['main_size'])},
