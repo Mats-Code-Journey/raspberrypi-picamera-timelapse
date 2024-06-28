@@ -1,0 +1,1832 @@
+{
+    "01-01": {
+        "sunrise": "07:10",
+        "sunset": "15:40",
+        "solar_noon": "11:25"
+    },
+    "01-02": {
+        "sunrise": "07:10",
+        "sunset": "15:41",
+        "solar_noon": "11:26"
+    },
+    "01-03": {
+        "sunrise": "07:10",
+        "sunset": "15:42",
+        "solar_noon": "11:26"
+    },
+    "01-04": {
+        "sunrise": "07:10",
+        "sunset": "15:43",
+        "solar_noon": "11:27"
+    },
+    "01-05": {
+        "sunrise": "07:10",
+        "sunset": "15:44",
+        "solar_noon": "11:27"
+    },
+    "01-06": {
+        "sunrise": "07:10",
+        "sunset": "15:45",
+        "solar_noon": "11:27"
+    },
+    "01-07": {
+        "sunrise": "07:10",
+        "sunset": "15:46",
+        "solar_noon": "11:28"
+    },
+    "01-08": {
+        "sunrise": "07:09",
+        "sunset": "15:48",
+        "solar_noon": "11:28"
+    },
+    "01-09": {
+        "sunrise": "07:09",
+        "sunset": "15:49",
+        "solar_noon": "11:29"
+    },
+    "01-10": {
+        "sunrise": "07:09",
+        "sunset": "15:50",
+        "solar_noon": "11:29"
+    },
+    "01-11": {
+        "sunrise": "07:08",
+        "sunset": "15:51",
+        "solar_noon": "11:30"
+    },
+    "01-12": {
+        "sunrise": "07:08",
+        "sunset": "15:52",
+        "solar_noon": "11:30"
+    },
+    "01-13": {
+        "sunrise": "07:07",
+        "sunset": "15:54",
+        "solar_noon": "11:30"
+    },
+    "01-14": {
+        "sunrise": "07:07",
+        "sunset": "15:55",
+        "solar_noon": "11:31"
+    },
+    "01-15": {
+        "sunrise": "07:06",
+        "sunset": "15:56",
+        "solar_noon": "11:31"
+    },
+    "01-16": {
+        "sunrise": "07:05",
+        "sunset": "15:58",
+        "solar_noon": "11:31"
+    },
+    "01-17": {
+        "sunrise": "07:05",
+        "sunset": "15:59",
+        "solar_noon": "11:32"
+    },
+    "01-18": {
+        "sunrise": "07:04",
+        "sunset": "16:01",
+        "solar_noon": "11:32"
+    },
+    "01-19": {
+        "sunrise": "07:03",
+        "sunset": "16:02",
+        "solar_noon": "11:32"
+    },
+    "01-20": {
+        "sunrise": "07:02",
+        "sunset": "16:04",
+        "solar_noon": "11:33"
+    },
+    "01-21": {
+        "sunrise": "07:01",
+        "sunset": "16:05",
+        "solar_noon": "11:33"
+    },
+    "01-22": {
+        "sunrise": "07:01",
+        "sunset": "16:06",
+        "solar_noon": "11:33"
+    },
+    "01-23": {
+        "sunrise": "07:00",
+        "sunset": "16:08",
+        "solar_noon": "11:34"
+    },
+    "01-24": {
+        "sunrise": "06:59",
+        "sunset": "16:09",
+        "solar_noon": "11:34"
+    },
+    "01-25": {
+        "sunrise": "06:58",
+        "sunset": "16:11",
+        "solar_noon": "11:34"
+    },
+    "01-26": {
+        "sunrise": "06:56",
+        "sunset": "16:12",
+        "solar_noon": "11:34"
+    },
+    "01-27": {
+        "sunrise": "06:55",
+        "sunset": "16:14",
+        "solar_noon": "11:34"
+    },
+    "01-28": {
+        "sunrise": "06:54",
+        "sunset": "16:16",
+        "solar_noon": "11:35"
+    },
+    "01-29": {
+        "sunrise": "06:53",
+        "sunset": "16:17",
+        "solar_noon": "11:35"
+    },
+    "01-30": {
+        "sunrise": "06:52",
+        "sunset": "16:19",
+        "solar_noon": "11:35"
+    },
+    "01-31": {
+        "sunrise": "06:51",
+        "sunset": "16:20",
+        "solar_noon": "11:35"
+    },
+    "02-01": {
+        "sunrise": "06:49",
+        "sunset": "16:22",
+        "solar_noon": "11:35"
+    },
+    "02-02": {
+        "sunrise": "06:48",
+        "sunset": "16:23",
+        "solar_noon": "11:35"
+    },
+    "02-03": {
+        "sunrise": "06:47",
+        "sunset": "16:25",
+        "solar_noon": "11:36"
+    },
+    "02-04": {
+        "sunrise": "06:45",
+        "sunset": "16:26",
+        "solar_noon": "11:36"
+    },
+    "02-05": {
+        "sunrise": "06:44",
+        "sunset": "16:28",
+        "solar_noon": "11:36"
+    },
+    "02-06": {
+        "sunrise": "06:43",
+        "sunset": "16:30",
+        "solar_noon": "11:36"
+    },
+    "02-07": {
+        "sunrise": "06:41",
+        "sunset": "16:31",
+        "solar_noon": "11:36"
+    },
+    "02-08": {
+        "sunrise": "06:40",
+        "sunset": "16:33",
+        "solar_noon": "11:36"
+    },
+    "02-09": {
+        "sunrise": "06:38",
+        "sunset": "16:34",
+        "solar_noon": "11:36"
+    },
+    "02-10": {
+        "sunrise": "06:37",
+        "sunset": "16:36",
+        "solar_noon": "11:36"
+    },
+    "02-11": {
+        "sunrise": "06:35",
+        "sunset": "16:38",
+        "solar_noon": "11:36"
+    },
+    "02-12": {
+        "sunrise": "06:34",
+        "sunset": "16:39",
+        "solar_noon": "11:36"
+    },
+    "02-13": {
+        "sunrise": "06:32",
+        "sunset": "16:41",
+        "solar_noon": "11:36"
+    },
+    "02-14": {
+        "sunrise": "06:30",
+        "sunset": "16:42",
+        "solar_noon": "11:36"
+    },
+    "02-15": {
+        "sunrise": "06:29",
+        "sunset": "16:44",
+        "solar_noon": "11:36"
+    },
+    "02-16": {
+        "sunrise": "06:27",
+        "sunset": "16:45",
+        "solar_noon": "11:36"
+    },
+    "02-17": {
+        "sunrise": "06:25",
+        "sunset": "16:47",
+        "solar_noon": "11:36"
+    },
+    "02-18": {
+        "sunrise": "06:24",
+        "sunset": "16:49",
+        "solar_noon": "11:36"
+    },
+    "02-19": {
+        "sunrise": "06:22",
+        "sunset": "16:50",
+        "solar_noon": "11:36"
+    },
+    "02-20": {
+        "sunrise": "06:20",
+        "sunset": "16:52",
+        "solar_noon": "11:36"
+    },
+    "02-21": {
+        "sunrise": "06:18",
+        "sunset": "16:53",
+        "solar_noon": "11:35"
+    },
+    "02-22": {
+        "sunrise": "06:17",
+        "sunset": "16:55",
+        "solar_noon": "11:35"
+    },
+    "02-23": {
+        "sunrise": "06:15",
+        "sunset": "16:56",
+        "solar_noon": "11:35"
+    },
+    "02-24": {
+        "sunrise": "06:13",
+        "sunset": "16:58",
+        "solar_noon": "11:35"
+    },
+    "02-25": {
+        "sunrise": "06:11",
+        "sunset": "16:59",
+        "solar_noon": "11:35"
+    },
+    "02-26": {
+        "sunrise": "06:09",
+        "sunset": "17:01",
+        "solar_noon": "11:35"
+    },
+    "02-27": {
+        "sunrise": "06:07",
+        "sunset": "17:03",
+        "solar_noon": "11:35"
+    },
+    "02-28": {
+        "sunrise": "06:06",
+        "sunset": "17:04",
+        "solar_noon": "11:34"
+    },
+    "02-29": {
+        "sunrise": "06:04",
+        "sunset": "17:06",
+        "solar_noon": "11:34"
+    },
+    "03-01": {
+        "sunrise": "06:02",
+        "sunset": "17:07",
+        "solar_noon": "11:34"
+    },
+    "03-02": {
+        "sunrise": "06:00",
+        "sunset": "17:09",
+        "solar_noon": "11:34"
+    },
+    "03-03": {
+        "sunrise": "05:58",
+        "sunset": "17:10",
+        "solar_noon": "11:34"
+    },
+    "03-04": {
+        "sunrise": "05:56",
+        "sunset": "17:12",
+        "solar_noon": "11:33"
+    },
+    "03-05": {
+        "sunrise": "05:54",
+        "sunset": "17:13",
+        "solar_noon": "11:33"
+    },
+    "03-06": {
+        "sunrise": "05:52",
+        "sunset": "17:15",
+        "solar_noon": "11:33"
+    },
+    "03-07": {
+        "sunrise": "05:50",
+        "sunset": "17:16",
+        "solar_noon": "11:33"
+    },
+    "03-08": {
+        "sunrise": "05:48",
+        "sunset": "17:18",
+        "solar_noon": "11:32"
+    },
+    "03-09": {
+        "sunrise": "05:46",
+        "sunset": "17:19",
+        "solar_noon": "11:32"
+    },
+    "03-10": {
+        "sunrise": "05:44",
+        "sunset": "17:20",
+        "solar_noon": "11:32"
+    },
+    "03-11": {
+        "sunrise": "05:42",
+        "sunset": "17:22",
+        "solar_noon": "11:32"
+    },
+    "03-12": {
+        "sunrise": "05:40",
+        "sunset": "17:23",
+        "solar_noon": "11:31"
+    },
+    "03-13": {
+        "sunrise": "05:38",
+        "sunset": "17:25",
+        "solar_noon": "11:31"
+    },
+    "03-14": {
+        "sunrise": "05:36",
+        "sunset": "17:26",
+        "solar_noon": "11:31"
+    },
+    "03-15": {
+        "sunrise": "05:34",
+        "sunset": "17:28",
+        "solar_noon": "11:31"
+    },
+    "03-16": {
+        "sunrise": "05:32",
+        "sunset": "17:29",
+        "solar_noon": "11:30"
+    },
+    "03-17": {
+        "sunrise": "05:30",
+        "sunset": "17:31",
+        "solar_noon": "11:30"
+    },
+    "03-18": {
+        "sunrise": "05:28",
+        "sunset": "17:32",
+        "solar_noon": "11:30"
+    },
+    "03-19": {
+        "sunrise": "05:26",
+        "sunset": "17:34",
+        "solar_noon": "11:29"
+    },
+    "03-20": {
+        "sunrise": "05:24",
+        "sunset": "17:35",
+        "solar_noon": "11:29"
+    },
+    "03-21": {
+        "sunrise": "05:22",
+        "sunset": "17:36",
+        "solar_noon": "11:29"
+    },
+    "03-22": {
+        "sunrise": "05:20",
+        "sunset": "17:38",
+        "solar_noon": "11:29"
+    },
+    "03-23": {
+        "sunrise": "05:18",
+        "sunset": "17:39",
+        "solar_noon": "11:28"
+    },
+    "03-24": {
+        "sunrise": "05:16",
+        "sunset": "17:41",
+        "solar_noon": "11:28"
+    },
+    "03-25": {
+        "sunrise": "05:14",
+        "sunset": "17:42",
+        "solar_noon": "11:28"
+    },
+    "03-26": {
+        "sunrise": "05:12",
+        "sunset": "17:44",
+        "solar_noon": "11:27"
+    },
+    "03-27": {
+        "sunrise": "05:10",
+        "sunset": "17:45",
+        "solar_noon": "11:27"
+    },
+    "03-28": {
+        "sunrise": "05:08",
+        "sunset": "17:46",
+        "solar_noon": "11:27"
+    },
+    "03-29": {
+        "sunrise": "05:06",
+        "sunset": "17:48",
+        "solar_noon": "11:26"
+    },
+    "03-30": {
+        "sunrise": "05:04",
+        "sunset": "17:49",
+        "solar_noon": "11:26"
+    },
+    "03-31": {
+        "sunrise": "05:02",
+        "sunset": "17:51",
+        "solar_noon": "11:26"
+    },
+    "04-01": {
+        "sunrise": "05:00",
+        "sunset": "17:52",
+        "solar_noon": "11:26"
+    },
+    "04-02": {
+        "sunrise": "04:58",
+        "sunset": "17:54",
+        "solar_noon": "11:25"
+    },
+    "04-03": {
+        "sunrise": "04:56",
+        "sunset": "17:55",
+        "solar_noon": "11:25"
+    },
+    "04-04": {
+        "sunrise": "04:54",
+        "sunset": "17:56",
+        "solar_noon": "11:25"
+    },
+    "04-05": {
+        "sunrise": "04:52",
+        "sunset": "17:58",
+        "solar_noon": "11:24"
+    },
+    "04-06": {
+        "sunrise": "04:50",
+        "sunset": "17:59",
+        "solar_noon": "11:24"
+    },
+    "04-07": {
+        "sunrise": "04:48",
+        "sunset": "18:01",
+        "solar_noon": "11:24"
+    },
+    "04-08": {
+        "sunrise": "04:46",
+        "sunset": "18:02",
+        "solar_noon": "11:24"
+    },
+    "04-09": {
+        "sunrise": "04:44",
+        "sunset": "18:04",
+        "solar_noon": "11:23"
+    },
+    "04-10": {
+        "sunrise": "04:42",
+        "sunset": "18:05",
+        "solar_noon": "11:23"
+    },
+    "04-11": {
+        "sunrise": "04:40",
+        "sunset": "18:06",
+        "solar_noon": "11:23"
+    },
+    "04-12": {
+        "sunrise": "04:38",
+        "sunset": "18:08",
+        "solar_noon": "11:22"
+    },
+    "04-13": {
+        "sunrise": "04:36",
+        "sunset": "18:09",
+        "solar_noon": "11:22"
+    },
+    "04-14": {
+        "sunrise": "04:34",
+        "sunset": "18:11",
+        "solar_noon": "11:22"
+    },
+    "04-15": {
+        "sunrise": "04:32",
+        "sunset": "18:12",
+        "solar_noon": "11:22"
+    },
+    "04-16": {
+        "sunrise": "04:30",
+        "sunset": "18:14",
+        "solar_noon": "11:22"
+    },
+    "04-17": {
+        "sunrise": "04:29",
+        "sunset": "18:15",
+        "solar_noon": "11:21"
+    },
+    "04-18": {
+        "sunrise": "04:27",
+        "sunset": "18:16",
+        "solar_noon": "11:21"
+    },
+    "04-19": {
+        "sunrise": "04:25",
+        "sunset": "18:18",
+        "solar_noon": "11:21"
+    },
+    "04-20": {
+        "sunrise": "04:23",
+        "sunset": "18:19",
+        "solar_noon": "11:21"
+    },
+    "04-21": {
+        "sunrise": "04:21",
+        "sunset": "18:21",
+        "solar_noon": "11:20"
+    },
+    "04-22": {
+        "sunrise": "04:19",
+        "sunset": "18:22",
+        "solar_noon": "11:20"
+    },
+    "04-23": {
+        "sunrise": "04:18",
+        "sunset": "18:23",
+        "solar_noon": "11:20"
+    },
+    "04-24": {
+        "sunrise": "04:16",
+        "sunset": "18:25",
+        "solar_noon": "11:20"
+    },
+    "04-25": {
+        "sunrise": "04:14",
+        "sunset": "18:26",
+        "solar_noon": "11:20"
+    },
+    "04-26": {
+        "sunrise": "04:12",
+        "sunset": "18:28",
+        "solar_noon": "11:20"
+    },
+    "04-27": {
+        "sunrise": "04:11",
+        "sunset": "18:29",
+        "solar_noon": "11:19"
+    },
+    "04-28": {
+        "sunrise": "04:09",
+        "sunset": "18:30",
+        "solar_noon": "11:19"
+    },
+    "04-29": {
+        "sunrise": "04:07",
+        "sunset": "18:32",
+        "solar_noon": "11:19"
+    },
+    "04-30": {
+        "sunrise": "04:06",
+        "sunset": "18:33",
+        "solar_noon": "11:19"
+    },
+    "05-01": {
+        "sunrise": "04:04",
+        "sunset": "18:35",
+        "solar_noon": "11:19"
+    },
+    "05-02": {
+        "sunrise": "04:02",
+        "sunset": "18:36",
+        "solar_noon": "11:19"
+    },
+    "05-03": {
+        "sunrise": "04:01",
+        "sunset": "18:37",
+        "solar_noon": "11:19"
+    },
+    "05-04": {
+        "sunrise": "03:59",
+        "sunset": "18:39",
+        "solar_noon": "11:19"
+    },
+    "05-05": {
+        "sunrise": "03:58",
+        "sunset": "18:40",
+        "solar_noon": "11:18"
+    },
+    "05-06": {
+        "sunrise": "03:56",
+        "sunset": "18:41",
+        "solar_noon": "11:18"
+    },
+    "05-07": {
+        "sunrise": "03:55",
+        "sunset": "18:43",
+        "solar_noon": "11:18"
+    },
+    "05-08": {
+        "sunrise": "03:53",
+        "sunset": "18:44",
+        "solar_noon": "11:18"
+    },
+    "05-09": {
+        "sunrise": "03:52",
+        "sunset": "18:46",
+        "solar_noon": "11:18"
+    },
+    "05-10": {
+        "sunrise": "03:50",
+        "sunset": "18:47",
+        "solar_noon": "11:18"
+    },
+    "05-11": {
+        "sunrise": "03:49",
+        "sunset": "18:48",
+        "solar_noon": "11:18"
+    },
+    "05-12": {
+        "sunrise": "03:48",
+        "sunset": "18:49",
+        "solar_noon": "11:18"
+    },
+    "05-13": {
+        "sunrise": "03:46",
+        "sunset": "18:51",
+        "solar_noon": "11:18"
+    },
+    "05-14": {
+        "sunrise": "03:45",
+        "sunset": "18:52",
+        "solar_noon": "11:18"
+    },
+    "05-15": {
+        "sunrise": "03:44",
+        "sunset": "18:53",
+        "solar_noon": "11:18"
+    },
+    "05-16": {
+        "sunrise": "03:43",
+        "sunset": "18:55",
+        "solar_noon": "11:18"
+    },
+    "05-17": {
+        "sunrise": "03:41",
+        "sunset": "18:56",
+        "solar_noon": "11:18"
+    },
+    "05-18": {
+        "sunrise": "03:40",
+        "sunset": "18:57",
+        "solar_noon": "11:18"
+    },
+    "05-19": {
+        "sunrise": "03:39",
+        "sunset": "18:58",
+        "solar_noon": "11:18"
+    },
+    "05-20": {
+        "sunrise": "03:38",
+        "sunset": "19:00",
+        "solar_noon": "11:18"
+    },
+    "05-21": {
+        "sunrise": "03:37",
+        "sunset": "19:01",
+        "solar_noon": "11:18"
+    },
+    "05-22": {
+        "sunrise": "03:36",
+        "sunset": "19:02",
+        "solar_noon": "11:19"
+    },
+    "05-23": {
+        "sunrise": "03:35",
+        "sunset": "19:03",
+        "solar_noon": "11:19"
+    },
+    "05-24": {
+        "sunrise": "03:34",
+        "sunset": "19:04",
+        "solar_noon": "11:19"
+    },
+    "05-25": {
+        "sunrise": "03:33",
+        "sunset": "19:05",
+        "solar_noon": "11:19"
+    },
+    "05-26": {
+        "sunrise": "03:32",
+        "sunset": "19:06",
+        "solar_noon": "11:19"
+    },
+    "05-27": {
+        "sunrise": "03:31",
+        "sunset": "19:07",
+        "solar_noon": "11:19"
+    },
+    "05-28": {
+        "sunrise": "03:31",
+        "sunset": "19:08",
+        "solar_noon": "11:19"
+    },
+    "05-29": {
+        "sunrise": "03:30",
+        "sunset": "19:09",
+        "solar_noon": "11:19"
+    },
+    "05-30": {
+        "sunrise": "03:29",
+        "sunset": "19:10",
+        "solar_noon": "11:19"
+    },
+    "05-31": {
+        "sunrise": "03:28",
+        "sunset": "19:11",
+        "solar_noon": "11:20"
+    },
+    "06-01": {
+        "sunrise": "03:28",
+        "sunset": "19:12",
+        "solar_noon": "11:20"
+    },
+    "06-02": {
+        "sunrise": "03:27",
+        "sunset": "19:13",
+        "solar_noon": "11:20"
+    },
+    "06-03": {
+        "sunrise": "03:27",
+        "sunset": "19:14",
+        "solar_noon": "11:20"
+    },
+    "06-04": {
+        "sunrise": "03:26",
+        "sunset": "19:15",
+        "solar_noon": "11:20"
+    },
+    "06-05": {
+        "sunrise": "03:26",
+        "sunset": "19:16",
+        "solar_noon": "11:20"
+    },
+    "06-06": {
+        "sunrise": "03:25",
+        "sunset": "19:16",
+        "solar_noon": "11:21"
+    },
+    "06-07": {
+        "sunrise": "03:25",
+        "sunset": "19:17",
+        "solar_noon": "11:21"
+    },
+    "06-08": {
+        "sunrise": "03:24",
+        "sunset": "19:18",
+        "solar_noon": "11:21"
+    },
+    "06-09": {
+        "sunrise": "03:24",
+        "sunset": "19:19",
+        "solar_noon": "11:21"
+    },
+    "06-10": {
+        "sunrise": "03:24",
+        "sunset": "19:19",
+        "solar_noon": "11:21"
+    },
+    "06-11": {
+        "sunrise": "03:24",
+        "sunset": "19:20",
+        "solar_noon": "11:22"
+    },
+    "06-12": {
+        "sunrise": "03:23",
+        "sunset": "19:20",
+        "solar_noon": "11:22"
+    },
+    "06-13": {
+        "sunrise": "03:23",
+        "sunset": "19:21",
+        "solar_noon": "11:22"
+    },
+    "06-14": {
+        "sunrise": "03:23",
+        "sunset": "19:21",
+        "solar_noon": "11:22"
+    },
+    "06-15": {
+        "sunrise": "03:23",
+        "sunset": "19:22",
+        "solar_noon": "11:22"
+    },
+    "06-16": {
+        "sunrise": "03:23",
+        "sunset": "19:22",
+        "solar_noon": "11:23"
+    },
+    "06-17": {
+        "sunrise": "03:23",
+        "sunset": "19:23",
+        "solar_noon": "11:23"
+    },
+    "06-18": {
+        "sunrise": "03:23",
+        "sunset": "19:23",
+        "solar_noon": "11:23"
+    },
+    "06-19": {
+        "sunrise": "03:23",
+        "sunset": "19:23",
+        "solar_noon": "11:23"
+    },
+    "06-20": {
+        "sunrise": "03:24",
+        "sunset": "19:23",
+        "solar_noon": "11:24"
+    },
+    "06-21": {
+        "sunrise": "03:24",
+        "sunset": "19:24",
+        "solar_noon": "11:24"
+    },
+    "06-22": {
+        "sunrise": "03:24",
+        "sunset": "19:24",
+        "solar_noon": "11:24"
+    },
+    "06-23": {
+        "sunrise": "03:24",
+        "sunset": "19:24",
+        "solar_noon": "11:24"
+    },
+    "06-24": {
+        "sunrise": "03:25",
+        "sunset": "19:24",
+        "solar_noon": "11:24"
+    },
+    "06-25": {
+        "sunrise": "03:25",
+        "sunset": "19:24",
+        "solar_noon": "11:25"
+    },
+    "06-26": {
+        "sunrise": "03:25",
+        "sunset": "19:24",
+        "solar_noon": "11:25"
+    },
+    "06-27": {
+        "sunrise": "03:26",
+        "sunset": "19:24",
+        "solar_noon": "11:25"
+    },
+    "06-28": {
+        "sunrise": "03:26",
+        "sunset": "19:24",
+        "solar_noon": "11:25"
+    },
+    "06-29": {
+        "sunrise": "03:27",
+        "sunset": "19:24",
+        "solar_noon": "11:25"
+    },
+    "06-30": {
+        "sunrise": "03:27",
+        "sunset": "19:23",
+        "solar_noon": "11:26"
+    },
+    "07-01": {
+        "sunrise": "03:28",
+        "sunset": "19:23",
+        "solar_noon": "11:26"
+    },
+    "07-02": {
+        "sunrise": "03:29",
+        "sunset": "19:23",
+        "solar_noon": "11:26"
+    },
+    "07-03": {
+        "sunrise": "03:29",
+        "sunset": "19:23",
+        "solar_noon": "11:26"
+    },
+    "07-04": {
+        "sunrise": "03:30",
+        "sunset": "19:22",
+        "solar_noon": "11:26"
+    },
+    "07-05": {
+        "sunrise": "03:31",
+        "sunset": "19:22",
+        "solar_noon": "11:27"
+    },
+    "07-06": {
+        "sunrise": "03:32",
+        "sunset": "19:21",
+        "solar_noon": "11:27"
+    },
+    "07-07": {
+        "sunrise": "03:32",
+        "sunset": "19:21",
+        "solar_noon": "11:27"
+    },
+    "07-08": {
+        "sunrise": "03:33",
+        "sunset": "19:20",
+        "solar_noon": "11:27"
+    },
+    "07-09": {
+        "sunrise": "03:34",
+        "sunset": "19:20",
+        "solar_noon": "11:27"
+    },
+    "07-10": {
+        "sunrise": "03:35",
+        "sunset": "19:19",
+        "solar_noon": "11:27"
+    },
+    "07-11": {
+        "sunrise": "03:36",
+        "sunset": "19:19",
+        "solar_noon": "11:27"
+    },
+    "07-12": {
+        "sunrise": "03:37",
+        "sunset": "19:18",
+        "solar_noon": "11:28"
+    },
+    "07-13": {
+        "sunrise": "03:38",
+        "sunset": "19:17",
+        "solar_noon": "11:28"
+    },
+    "07-14": {
+        "sunrise": "03:39",
+        "sunset": "19:16",
+        "solar_noon": "11:28"
+    },
+    "07-15": {
+        "sunrise": "03:40",
+        "sunset": "19:15",
+        "solar_noon": "11:28"
+    },
+    "07-16": {
+        "sunrise": "03:41",
+        "sunset": "19:15",
+        "solar_noon": "11:28"
+    },
+    "07-17": {
+        "sunrise": "03:42",
+        "sunset": "19:14",
+        "solar_noon": "11:28"
+    },
+    "07-18": {
+        "sunrise": "03:43",
+        "sunset": "19:13",
+        "solar_noon": "11:28"
+    },
+    "07-19": {
+        "sunrise": "03:44",
+        "sunset": "19:12",
+        "solar_noon": "11:28"
+    },
+    "07-20": {
+        "sunrise": "03:45",
+        "sunset": "19:11",
+        "solar_noon": "11:28"
+    },
+    "07-21": {
+        "sunrise": "03:46",
+        "sunset": "19:10",
+        "solar_noon": "11:28"
+    },
+    "07-22": {
+        "sunrise": "03:47",
+        "sunset": "19:09",
+        "solar_noon": "11:28"
+    },
+    "07-23": {
+        "sunrise": "03:48",
+        "sunset": "19:07",
+        "solar_noon": "11:28"
+    },
+    "07-24": {
+        "sunrise": "03:50",
+        "sunset": "19:06",
+        "solar_noon": "11:28"
+    },
+    "07-25": {
+        "sunrise": "03:51",
+        "sunset": "19:05",
+        "solar_noon": "11:28"
+    },
+    "07-26": {
+        "sunrise": "03:52",
+        "sunset": "19:04",
+        "solar_noon": "11:28"
+    },
+    "07-27": {
+        "sunrise": "03:53",
+        "sunset": "19:03",
+        "solar_noon": "11:28"
+    },
+    "07-28": {
+        "sunrise": "03:54",
+        "sunset": "19:01",
+        "solar_noon": "11:28"
+    },
+    "07-29": {
+        "sunrise": "03:56",
+        "sunset": "19:00",
+        "solar_noon": "11:28"
+    },
+    "07-30": {
+        "sunrise": "03:57",
+        "sunset": "18:59",
+        "solar_noon": "11:28"
+    },
+    "07-31": {
+        "sunrise": "03:58",
+        "sunset": "18:57",
+        "solar_noon": "11:28"
+    },
+    "08-01": {
+        "sunrise": "04:00",
+        "sunset": "18:56",
+        "solar_noon": "11:28"
+    },
+    "08-02": {
+        "sunrise": "04:01",
+        "sunset": "18:55",
+        "solar_noon": "11:28"
+    },
+    "08-03": {
+        "sunrise": "04:02",
+        "sunset": "18:53",
+        "solar_noon": "11:28"
+    },
+    "08-04": {
+        "sunrise": "04:03",
+        "sunset": "18:52",
+        "solar_noon": "11:28"
+    },
+    "08-05": {
+        "sunrise": "04:05",
+        "sunset": "18:50",
+        "solar_noon": "11:28"
+    },
+    "08-06": {
+        "sunrise": "04:06",
+        "sunset": "18:49",
+        "solar_noon": "11:28"
+    },
+    "08-07": {
+        "sunrise": "04:07",
+        "sunset": "18:47",
+        "solar_noon": "11:28"
+    },
+    "08-08": {
+        "sunrise": "04:09",
+        "sunset": "18:45",
+        "solar_noon": "11:27"
+    },
+    "08-09": {
+        "sunrise": "04:10",
+        "sunset": "18:44",
+        "solar_noon": "11:27"
+    },
+    "08-10": {
+        "sunrise": "04:11",
+        "sunset": "18:42",
+        "solar_noon": "11:27"
+    },
+    "08-11": {
+        "sunrise": "04:13",
+        "sunset": "18:40",
+        "solar_noon": "11:27"
+    },
+    "08-12": {
+        "sunrise": "04:14",
+        "sunset": "18:39",
+        "solar_noon": "11:27"
+    },
+    "08-13": {
+        "sunrise": "04:15",
+        "sunset": "18:37",
+        "solar_noon": "11:27"
+    },
+    "08-14": {
+        "sunrise": "04:17",
+        "sunset": "18:35",
+        "solar_noon": "11:26"
+    },
+    "08-15": {
+        "sunrise": "04:18",
+        "sunset": "18:34",
+        "solar_noon": "11:26"
+    },
+    "08-16": {
+        "sunrise": "04:19",
+        "sunset": "18:32",
+        "solar_noon": "11:26"
+    },
+    "08-17": {
+        "sunrise": "04:21",
+        "sunset": "18:30",
+        "solar_noon": "11:26"
+    },
+    "08-18": {
+        "sunrise": "04:22",
+        "sunset": "18:28",
+        "solar_noon": "11:26"
+    },
+    "08-19": {
+        "sunrise": "04:23",
+        "sunset": "18:26",
+        "solar_noon": "11:25"
+    },
+    "08-20": {
+        "sunrise": "04:25",
+        "sunset": "18:25",
+        "solar_noon": "11:25"
+    },
+    "08-21": {
+        "sunrise": "04:26",
+        "sunset": "18:23",
+        "solar_noon": "11:25"
+    },
+    "08-22": {
+        "sunrise": "04:27",
+        "sunset": "18:21",
+        "solar_noon": "11:25"
+    },
+    "08-23": {
+        "sunrise": "04:29",
+        "sunset": "18:19",
+        "solar_noon": "11:24"
+    },
+    "08-24": {
+        "sunrise": "04:30",
+        "sunset": "18:17",
+        "solar_noon": "11:24"
+    },
+    "08-25": {
+        "sunrise": "04:31",
+        "sunset": "18:15",
+        "solar_noon": "11:24"
+    },
+    "08-26": {
+        "sunrise": "04:33",
+        "sunset": "18:13",
+        "solar_noon": "11:23"
+    },
+    "08-27": {
+        "sunrise": "04:34",
+        "sunset": "18:11",
+        "solar_noon": "11:23"
+    },
+    "08-28": {
+        "sunrise": "04:35",
+        "sunset": "18:10",
+        "solar_noon": "11:23"
+    },
+    "08-29": {
+        "sunrise": "04:37",
+        "sunset": "18:08",
+        "solar_noon": "11:23"
+    },
+    "08-30": {
+        "sunrise": "04:38",
+        "sunset": "18:06",
+        "solar_noon": "11:22"
+    },
+    "08-31": {
+        "sunrise": "04:39",
+        "sunset": "18:04",
+        "solar_noon": "11:22"
+    },
+    "09-01": {
+        "sunrise": "04:41",
+        "sunset": "18:02",
+        "solar_noon": "11:22"
+    },
+    "09-02": {
+        "sunrise": "04:42",
+        "sunset": "18:00",
+        "solar_noon": "11:21"
+    },
+    "09-03": {
+        "sunrise": "04:43",
+        "sunset": "17:58",
+        "solar_noon": "11:21"
+    },
+    "09-04": {
+        "sunrise": "04:45",
+        "sunset": "17:56",
+        "solar_noon": "11:21"
+    },
+    "09-05": {
+        "sunrise": "04:46",
+        "sunset": "17:54",
+        "solar_noon": "11:20"
+    },
+    "09-06": {
+        "sunrise": "04:47",
+        "sunset": "17:52",
+        "solar_noon": "11:20"
+    },
+    "09-07": {
+        "sunrise": "04:49",
+        "sunset": "17:50",
+        "solar_noon": "11:20"
+    },
+    "09-08": {
+        "sunrise": "04:50",
+        "sunset": "17:48",
+        "solar_noon": "11:19"
+    },
+    "09-09": {
+        "sunrise": "04:51",
+        "sunset": "17:46",
+        "solar_noon": "11:19"
+    },
+    "09-10": {
+        "sunrise": "04:53",
+        "sunset": "17:44",
+        "solar_noon": "11:19"
+    },
+    "09-11": {
+        "sunrise": "04:54",
+        "sunset": "17:42",
+        "solar_noon": "11:18"
+    },
+    "09-12": {
+        "sunrise": "04:56",
+        "sunset": "17:39",
+        "solar_noon": "11:18"
+    },
+    "09-13": {
+        "sunrise": "04:57",
+        "sunset": "17:37",
+        "solar_noon": "11:18"
+    },
+    "09-14": {
+        "sunrise": "04:58",
+        "sunset": "17:35",
+        "solar_noon": "11:17"
+    },
+    "09-15": {
+        "sunrise": "05:00",
+        "sunset": "17:33",
+        "solar_noon": "11:17"
+    },
+    "09-16": {
+        "sunrise": "05:01",
+        "sunset": "17:31",
+        "solar_noon": "11:17"
+    },
+    "09-17": {
+        "sunrise": "05:02",
+        "sunset": "17:29",
+        "solar_noon": "11:16"
+    },
+    "09-18": {
+        "sunrise": "05:04",
+        "sunset": "17:27",
+        "solar_noon": "11:16"
+    },
+    "09-19": {
+        "sunrise": "05:05",
+        "sunset": "17:25",
+        "solar_noon": "11:15"
+    },
+    "09-20": {
+        "sunrise": "05:06",
+        "sunset": "17:23",
+        "solar_noon": "11:15"
+    },
+    "09-21": {
+        "sunrise": "05:08",
+        "sunset": "17:21",
+        "solar_noon": "11:15"
+    },
+    "09-22": {
+        "sunrise": "05:09",
+        "sunset": "17:19",
+        "solar_noon": "11:14"
+    },
+    "09-23": {
+        "sunrise": "05:10",
+        "sunset": "17:17",
+        "solar_noon": "11:14"
+    },
+    "09-24": {
+        "sunrise": "05:12",
+        "sunset": "17:15",
+        "solar_noon": "11:14"
+    },
+    "09-25": {
+        "sunrise": "05:13",
+        "sunset": "17:13",
+        "solar_noon": "11:13"
+    },
+    "09-26": {
+        "sunrise": "05:14",
+        "sunset": "17:11",
+        "solar_noon": "11:13"
+    },
+    "09-27": {
+        "sunrise": "05:16",
+        "sunset": "17:09",
+        "solar_noon": "11:13"
+    },
+    "09-28": {
+        "sunrise": "05:17",
+        "sunset": "17:07",
+        "solar_noon": "11:12"
+    },
+    "09-29": {
+        "sunrise": "05:19",
+        "sunset": "17:05",
+        "solar_noon": "11:12"
+    },
+    "09-30": {
+        "sunrise": "05:20",
+        "sunset": "17:03",
+        "solar_noon": "11:12"
+    },
+    "10-01": {
+        "sunrise": "05:21",
+        "sunset": "17:00",
+        "solar_noon": "11:11"
+    },
+    "10-02": {
+        "sunrise": "05:23",
+        "sunset": "16:58",
+        "solar_noon": "11:11"
+    },
+    "10-03": {
+        "sunrise": "05:24",
+        "sunset": "16:56",
+        "solar_noon": "11:11"
+    },
+    "10-04": {
+        "sunrise": "05:26",
+        "sunset": "16:54",
+        "solar_noon": "11:10"
+    },
+    "10-05": {
+        "sunrise": "05:27",
+        "sunset": "16:52",
+        "solar_noon": "11:10"
+    },
+    "10-06": {
+        "sunrise": "05:28",
+        "sunset": "16:50",
+        "solar_noon": "11:10"
+    },
+    "10-07": {
+        "sunrise": "05:30",
+        "sunset": "16:48",
+        "solar_noon": "11:10"
+    },
+    "10-08": {
+        "sunrise": "05:31",
+        "sunset": "16:47",
+        "solar_noon": "11:09"
+    },
+    "10-09": {
+        "sunrise": "05:33",
+        "sunset": "16:45",
+        "solar_noon": "11:09"
+    },
+    "10-10": {
+        "sunrise": "05:34",
+        "sunset": "16:43",
+        "solar_noon": "11:09"
+    },
+    "10-11": {
+        "sunrise": "05:35",
+        "sunset": "16:41",
+        "solar_noon": "11:08"
+    },
+    "10-12": {
+        "sunrise": "05:37",
+        "sunset": "16:39",
+        "solar_noon": "11:08"
+    },
+    "10-13": {
+        "sunrise": "05:38",
+        "sunset": "16:37",
+        "solar_noon": "11:08"
+    },
+    "10-14": {
+        "sunrise": "05:40",
+        "sunset": "16:35",
+        "solar_noon": "11:08"
+    },
+    "10-15": {
+        "sunrise": "05:41",
+        "sunset": "16:33",
+        "solar_noon": "11:07"
+    },
+    "10-16": {
+        "sunrise": "05:43",
+        "sunset": "16:31",
+        "solar_noon": "11:07"
+    },
+    "10-17": {
+        "sunrise": "05:44",
+        "sunset": "16:29",
+        "solar_noon": "11:07"
+    },
+    "10-18": {
+        "sunrise": "05:46",
+        "sunset": "16:27",
+        "solar_noon": "11:07"
+    },
+    "10-19": {
+        "sunrise": "05:47",
+        "sunset": "16:26",
+        "solar_noon": "11:07"
+    },
+    "10-20": {
+        "sunrise": "05:49",
+        "sunset": "16:24",
+        "solar_noon": "11:07"
+    },
+    "10-21": {
+        "sunrise": "05:50",
+        "sunset": "16:22",
+        "solar_noon": "11:06"
+    },
+    "10-22": {
+        "sunrise": "05:51",
+        "sunset": "16:20",
+        "solar_noon": "11:06"
+    },
+    "10-23": {
+        "sunrise": "05:53",
+        "sunset": "16:18",
+        "solar_noon": "11:06"
+    },
+    "10-24": {
+        "sunrise": "05:54",
+        "sunset": "16:17",
+        "solar_noon": "11:06"
+    },
+    "10-25": {
+        "sunrise": "05:56",
+        "sunset": "16:15",
+        "solar_noon": "11:06"
+    },
+    "10-26": {
+        "sunrise": "05:57",
+        "sunset": "16:13",
+        "solar_noon": "11:06"
+    },
+    "10-27": {
+        "sunrise": "05:59",
+        "sunset": "16:12",
+        "solar_noon": "11:06"
+    },
+    "10-28": {
+        "sunrise": "06:00",
+        "sunset": "16:10",
+        "solar_noon": "11:06"
+    },
+    "10-29": {
+        "sunrise": "06:02",
+        "sunset": "16:08",
+        "solar_noon": "11:05"
+    },
+    "10-30": {
+        "sunrise": "06:03",
+        "sunset": "16:07",
+        "solar_noon": "11:05"
+    },
+    "10-31": {
+        "sunrise": "06:05",
+        "sunset": "16:05",
+        "solar_noon": "11:05"
+    },
+    "11-01": {
+        "sunrise": "06:07",
+        "sunset": "16:04",
+        "solar_noon": "11:05"
+    },
+    "11-02": {
+        "sunrise": "06:08",
+        "sunset": "16:02",
+        "solar_noon": "11:05"
+    },
+    "11-03": {
+        "sunrise": "06:10",
+        "sunset": "16:01",
+        "solar_noon": "11:05"
+    },
+    "11-04": {
+        "sunrise": "06:11",
+        "sunset": "15:59",
+        "solar_noon": "11:05"
+    },
+    "11-05": {
+        "sunrise": "06:13",
+        "sunset": "15:58",
+        "solar_noon": "11:05"
+    },
+    "11-06": {
+        "sunrise": "06:14",
+        "sunset": "15:56",
+        "solar_noon": "11:05"
+    },
+    "11-07": {
+        "sunrise": "06:16",
+        "sunset": "15:55",
+        "solar_noon": "11:06"
+    },
+    "11-08": {
+        "sunrise": "06:17",
+        "sunset": "15:53",
+        "solar_noon": "11:06"
+    },
+    "11-09": {
+        "sunrise": "06:19",
+        "sunset": "15:52",
+        "solar_noon": "11:06"
+    },
+    "11-10": {
+        "sunrise": "06:20",
+        "sunset": "15:51",
+        "solar_noon": "11:06"
+    },
+    "11-11": {
+        "sunrise": "06:22",
+        "sunset": "15:50",
+        "solar_noon": "11:06"
+    },
+    "11-12": {
+        "sunrise": "06:23",
+        "sunset": "15:48",
+        "solar_noon": "11:06"
+    },
+    "11-13": {
+        "sunrise": "06:25",
+        "sunset": "15:47",
+        "solar_noon": "11:06"
+    },
+    "11-14": {
+        "sunrise": "06:26",
+        "sunset": "15:46",
+        "solar_noon": "11:06"
+    },
+    "11-15": {
+        "sunrise": "06:28",
+        "sunset": "15:45",
+        "solar_noon": "11:06"
+    },
+    "11-16": {
+        "sunrise": "06:29",
+        "sunset": "15:44",
+        "solar_noon": "11:07"
+    },
+    "11-17": {
+        "sunrise": "06:31",
+        "sunset": "15:43",
+        "solar_noon": "11:07"
+    },
+    "11-18": {
+        "sunrise": "06:32",
+        "sunset": "15:42",
+        "solar_noon": "11:07"
+    },
+    "11-19": {
+        "sunrise": "06:34",
+        "sunset": "15:41",
+        "solar_noon": "11:07"
+    },
+    "11-20": {
+        "sunrise": "06:35",
+        "sunset": "15:40",
+        "solar_noon": "11:08"
+    },
+    "11-21": {
+        "sunrise": "06:36",
+        "sunset": "15:39",
+        "solar_noon": "11:08"
+    },
+    "11-22": {
+        "sunrise": "06:38",
+        "sunset": "15:38",
+        "solar_noon": "11:08"
+    },
+    "11-23": {
+        "sunrise": "06:39",
+        "sunset": "15:37",
+        "solar_noon": "11:08"
+    },
+    "11-24": {
+        "sunrise": "06:41",
+        "sunset": "15:36",
+        "solar_noon": "11:09"
+    },
+    "11-25": {
+        "sunrise": "06:42",
+        "sunset": "15:35",
+        "solar_noon": "11:09"
+    },
+    "11-26": {
+        "sunrise": "06:43",
+        "sunset": "15:35",
+        "solar_noon": "11:09"
+    },
+    "11-27": {
+        "sunrise": "06:45",
+        "sunset": "15:34",
+        "solar_noon": "11:10"
+    },
+    "11-28": {
+        "sunrise": "06:46",
+        "sunset": "15:34",
+        "solar_noon": "11:10"
+    },
+    "11-29": {
+        "sunrise": "06:47",
+        "sunset": "15:33",
+        "solar_noon": "11:10"
+    },
+    "11-30": {
+        "sunrise": "06:48",
+        "sunset": "15:32",
+        "solar_noon": "11:11"
+    },
+    "12-01": {
+        "sunrise": "06:50",
+        "sunset": "15:32",
+        "solar_noon": "11:11"
+    },
+    "12-02": {
+        "sunrise": "06:51",
+        "sunset": "15:32",
+        "solar_noon": "11:11"
+    },
+    "12-03": {
+        "sunrise": "06:52",
+        "sunset": "15:31",
+        "solar_noon": "11:12"
+    },
+    "12-04": {
+        "sunrise": "06:53",
+        "sunset": "15:31",
+        "solar_noon": "11:12"
+    },
+    "12-05": {
+        "sunrise": "06:54",
+        "sunset": "15:31",
+        "solar_noon": "11:13"
+    },
+    "12-06": {
+        "sunrise": "06:56",
+        "sunset": "15:30",
+        "solar_noon": "11:13"
+    },
+    "12-07": {
+        "sunrise": "06:57",
+        "sunset": "15:30",
+        "solar_noon": "11:13"
+    },
+    "12-08": {
+        "sunrise": "06:58",
+        "sunset": "15:30",
+        "solar_noon": "11:14"
+    },
+    "12-09": {
+        "sunrise": "06:59",
+        "sunset": "15:30",
+        "solar_noon": "11:14"
+    },
+    "12-10": {
+        "sunrise": "07:00",
+        "sunset": "15:30",
+        "solar_noon": "11:15"
+    },
+    "12-11": {
+        "sunrise": "07:01",
+        "sunset": "15:30",
+        "solar_noon": "11:15"
+    },
+    "12-12": {
+        "sunrise": "07:01",
+        "sunset": "15:30",
+        "solar_noon": "11:16"
+    },
+    "12-13": {
+        "sunrise": "07:02",
+        "sunset": "15:30",
+        "solar_noon": "11:16"
+    },
+    "12-14": {
+        "sunrise": "07:03",
+        "sunset": "15:30",
+        "solar_noon": "11:17"
+    },
+    "12-15": {
+        "sunrise": "07:04",
+        "sunset": "15:30",
+        "solar_noon": "11:17"
+    },
+    "12-16": {
+        "sunrise": "07:05",
+        "sunset": "15:31",
+        "solar_noon": "11:18"
+    },
+    "12-17": {
+        "sunrise": "07:05",
+        "sunset": "15:31",
+        "solar_noon": "11:18"
+    },
+    "12-18": {
+        "sunrise": "07:06",
+        "sunset": "15:31",
+        "solar_noon": "11:19"
+    },
+    "12-19": {
+        "sunrise": "07:07",
+        "sunset": "15:32",
+        "solar_noon": "11:19"
+    },
+    "12-20": {
+        "sunrise": "07:07",
+        "sunset": "15:32",
+        "solar_noon": "11:20"
+    },
+    "12-21": {
+        "sunrise": "07:08",
+        "sunset": "15:33",
+        "solar_noon": "11:20"
+    },
+    "12-22": {
+        "sunrise": "07:08",
+        "sunset": "15:33",
+        "solar_noon": "11:21"
+    },
+    "12-23": {
+        "sunrise": "07:09",
+        "sunset": "15:34",
+        "solar_noon": "11:21"
+    },
+    "12-24": {
+        "sunrise": "07:09",
+        "sunset": "15:34",
+        "solar_noon": "11:22"
+    },
+    "12-25": {
+        "sunrise": "07:09",
+        "sunset": "15:35",
+        "solar_noon": "11:22"
+    },
+    "12-26": {
+        "sunrise": "07:10",
+        "sunset": "15:36",
+        "solar_noon": "11:23"
+    },
+    "12-27": {
+        "sunrise": "07:10",
+        "sunset": "15:36",
+        "solar_noon": "11:23"
+    },
+    "12-28": {
+        "sunrise": "07:10",
+        "sunset": "15:37",
+        "solar_noon": "11:24"
+    },
+    "12-29": {
+        "sunrise": "07:10",
+        "sunset": "15:38",
+        "solar_noon": "11:24"
+    },
+    "12-30": {
+        "sunrise": "07:10",
+        "sunset": "15:39",
+        "solar_noon": "11:25"
+    },
+    "12-31": {
+        "sunrise": "07:10",
+        "sunset": "15:40",
+        "solar_noon": "11:25"
+    }
+}
