@@ -15,8 +15,9 @@ def find_latest_file(dir_path):
     return latest_file
 
 if __name__ == "__main__":
-    config = load_config('/home/pi/raspberrypi-picamera-timelapse/config.yaml')
+    #config = load_config('/home/pi/raspberrypi-picamera-timelapse/config.yaml')
+    config = load_config('/home/mat/development/raspberrypi-picamera-timelapse/working_temp/config.yaml')
     latest_file = find_latest_file(config['image_output'])
     print(f"Applying overlay to {latest_file}")
-    subprocess.run(['python', '/home/pi/raspberrypi-picamera-timelapse/overlay.py', latest_file])
+    subprocess.run(['python', './raspberrypi-picamera-timelapse/overlay.py', latest_file])
 

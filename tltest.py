@@ -14,7 +14,7 @@ def load_config(config_path):
 
 def load_sun_data():
     current_dir = os.path.dirname(os.path.realpath(__file__))
-    sun_data_file = os.path.join(current_dir, 'data', 'sun_data_2023.json')
+    sun_data_file = os.path.join(current_dir, 'data', 'sun_data_2024.json')
     with open(sun_data_file, 'r') as file:
         return json.load(file)
 

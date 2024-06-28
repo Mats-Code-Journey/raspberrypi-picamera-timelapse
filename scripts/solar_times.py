@@ -42,7 +42,7 @@ def main():
         
         start_date += delta
 
-    with open("sun_data_2023.json", "w") as file:
+    with open("sun_data_2024.json", "w") as file:
         json.dump(result, file, indent=4)
 
 if __name__ == "__main__":
