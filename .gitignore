@@ -20,3 +20,4 @@ data/ffmpeg_list.txt
 working_temp/images/*
 working_temp/status.jpg
 nohup.out
+working_temp/test.jpg
