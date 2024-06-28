@@ -121,6 +121,10 @@ def capture_night_image(config, logging_enabled, shutter_speed, gain, test_mode=
         
         print_camera_config(camera_config, shutter_speed, gain)
         camera.options['quality'] = config['image_quality']
+        
+        # Flip the image horizontally and vertically # specific for my application
+        camera_config["transform"] = libcamera.Transform(hflip=1, vflip=1)
+        
         camera.configure(camera_config)
 
         if logging_enabled:
@@ -155,7 +159,8 @@ def capture_night_image(config, logging_enabled, shutter_speed, gain, test_mode=
 if __name__ == "__main__":
     args = parse_arguments()
     script_dir = os.path.dirname(os.path.realpath(__file__))
-    config = load_config(os.path.join(script_dir, 'config.yaml'))
+    #config = load_config(os.path.join(script_dir, 'config.yaml'))
+    config = load_config('/home/mat/development/raspberrypi-picamera-timelapse/working_temp/config.yaml')
 
     # Load constants from config
     DAYTIME_SHUTTER = config['camera_constants']['DAYTIME_SHUTTER']
@@ -164,7 +169,7 @@ if __name__ == "__main__":
     MAX_GAIN = config['camera_constants']['MAX_GAIN']
     SUNRISE_OFFSET_MINUTES = config['camera_constants']['SUNRISE_OFFSET_MINUTES']
 
-    sun_data_file = os.path.join(script_dir, 'data', 'sun_data_2023.json')
+    sun_data_file = os.path.join(script_dir, 'data', 'sun_data_2024.json')
     sun_data = load_sun_data(sun_data_file)
     today = datetime.datetime.now().date()
     sunrise_time, sunset_time = get_sun_times(today, sun_data)
